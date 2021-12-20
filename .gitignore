@@ -3,3 +3,5 @@ venv/
 */*.ini
 __pycache__
 */__pycache__
+Hacker Rank/*
+myproject/
